@@ -3,7 +3,7 @@
 
 Hello there! 👋
 
-I'm Andrew and I love leading teams and solving really complex problems. I'm currently looking for a new role as an Engineering Manager or Solutions Architect.
+I'm Andrew and I love leading teams and solving really complex problems. I'm currently looking for a new role as a Team Lead/Engineering Manager.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
